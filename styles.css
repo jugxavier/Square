@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    margin-left: 28.5px;
+    margin-right: 28.5px;
+}
+.bigSquares{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
