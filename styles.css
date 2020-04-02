@@ -14,8 +14,18 @@ body{
     bottom: 0;
     right: 0;
 }
-.primeiraLinha{
+.firstLine{
     width: 100%;
     height: 200px;
     background-color: green;
+}
+.secondLine{
+    width: 100%;
+    height: 200px;
+    background-color: yellow;
+}
+.thirdLine{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
 }
