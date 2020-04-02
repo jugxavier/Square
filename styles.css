@@ -35,15 +35,14 @@ body{
     width: 150px;
     margin: 20px;
     padding: 0;
-    background-color: rgb(255, 94, 0);
+    background-color: red;
     position: relative;
     display: inline-block;
 }
 .mediumSquareL{ 
     height: 150px;
     width: 150px;
-    margin: 30px;
-    margin-left: 40px;
+    margin: 20px;
     padding: 0;
     background-color: red;
     position: relative;
@@ -52,8 +51,7 @@ body{
 .mediumSquareU{
     height: 150px;
     width: 150px;
-    margin: 30px;
-    margin-left: 40px;
+    margin: 20px;
     padding: 0;
     background-color: red;
     position: relative;
